@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------
+Total Months: 86
+Total Net: $38,382,578.00
+Average Change: $-2,315.12
+Greatest increase in Profits: Feb-12 ($1,926,159.00)
+Greatest Dip in Profits: Sep-13 ($-2,196,167.00)
